@@ -74,6 +74,7 @@ nav li{
     border-radius: 10px;
     padding: 130px 150px;
     text-align: center;
+    margin: 50px 100px;
 
 
 }
@@ -87,6 +88,7 @@ nav li{
     color:#757575;
     font-size: 18px;
     margin-bottom: 30px;
+
 }
 .about-info-container{
     display: flex;
@@ -100,10 +102,13 @@ nav li{
     font-size: 20px;
     font-weight: 700;
     color: #474747;
+    padding: 0 10px;
 }
 /* what i do styles */
 
-
+.what-i-do{
+    margin: 0 180px;
+}
 
 .skills-container{
     display: flex;
@@ -129,6 +134,7 @@ nav li{
 .resume-contant{
     display: flex;
     gap:24px;
+    margin: 0 240px;
 }
 .resume-item{
     margin-top: 30px;
@@ -140,7 +146,7 @@ nav li{
     font-size: 25px;
     color: #474747;
     margin-bottom: 10px;
-    
+
 
 }
 .resume .sub-title{
